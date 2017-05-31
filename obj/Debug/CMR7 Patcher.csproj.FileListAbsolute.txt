@@ -1,0 +1,6 @@
+c:\users\ironb\documents\visual studio 2015\Projects\CMR7 Patcher\CMR7 Patcher\bin\Debug\CMR7 Patcher.exe.config
+c:\users\ironb\documents\visual studio 2015\Projects\CMR7 Patcher\CMR7 Patcher\bin\Debug\CMR7 Patcher.exe
+c:\users\ironb\documents\visual studio 2015\Projects\CMR7 Patcher\CMR7 Patcher\bin\Debug\CMR7 Patcher.pdb
+c:\users\ironb\documents\visual studio 2015\Projects\CMR7 Patcher\CMR7 Patcher\obj\Debug\CMR7 Patcher.exe
+c:\users\ironb\documents\visual studio 2015\Projects\CMR7 Patcher\CMR7 Patcher\obj\Debug\CMR7 Patcher.pdb
+c:\users\ironb\documents\visual studio 2015\Projects\CMR7 Patcher\CMR7 Patcher\obj\Debug\CMR7 Patcher.csprojResolveAssemblyReference.cache
